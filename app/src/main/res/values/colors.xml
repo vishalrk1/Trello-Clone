@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#0C90F1</color>
+    <color name="ColorPrimaryDark">#3700B3</color>
+    <color name="ColorAccent">#0C90F1</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Primary_text_color">#363A43</color>
+    <color name="Secondary_text_color">#7A8089</color>
+
+    <color name="snackBar_error_color">#F72400</color>
+
+    <color name="Divider_Color">#EAEAEA</color>
+
+    <color name="task_list_action_color">#F7F6FA</color>
+    <color name="task_list_title_view_bg_color">#F8F8F8</color>
+</resources>
